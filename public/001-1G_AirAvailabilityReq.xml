@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/">
+  <soapenv:Header/>
+  <soapenv:Body>
+    <air:AvailabilitySearchReq xmlns:air="http://www.travelport.com/schema/air_v29_0" xmlns:com="http://www.travelport.com/schema/common_v29_0" TraceId="trace" AuthorizedBy="user" TargetBranch="P7009957">
+      <com:BillingPointOfSaleInfo OriginApplication="UAPI"/>
+      <air:SearchAirLeg>
+        <air:SearchOrigin>
+          <com:Airport Code="DAC"/>
+        </air:SearchOrigin>
+        <air:SearchDestination>
+          <com:Airport Code="SIN"/>
+        </air:SearchDestination>
+        <air:SearchDepTime PreferredTime="2018-12-28"/>
+      </air:SearchAirLeg>
+      <air:AirSearchModifiers>
+        <air:PreferredProviders>
+          <com:Provider Code="1G"/>
+        </air:PreferredProviders>
+      </air:AirSearchModifiers>
+    </air:AvailabilitySearchReq>
+  </soapenv:Body>
+</soapenv:Envelope>

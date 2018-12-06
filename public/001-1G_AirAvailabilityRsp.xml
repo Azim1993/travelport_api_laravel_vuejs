@@ -1,0 +1,167 @@
+<?xml version="1.0"?>
+<SOAP:Envelope xmlns:SOAP="http://schemas.xmlsoap.org/soap/envelope/">
+  <SOAP:Body>
+    <air:AvailabilitySearchRsp xmlns:air="http://www.travelport.com/schema/air_v29_0" xmlns:common_v29_0="http://www.travelport.com/schema/common_v29_0" TraceId="trace" TransactionId="8311F92F0A07643B2273A3EE79DF01E0" ResponseTime="541" DistanceUnits="MI">
+      <common_v29_0:NextResultReference>H4sIAAAAAAAAAJ1UzU8TQRR/bSkfWm0QQwx+oNGIF3e75aMgXhCQ1CwfscRDCYdhd7oMbneW2WlZjDHRiyfPRhNPRhIT/wATE696NMab8WA4e/HGCWeGLmUl2mgP2503v/m993vvN/vmB6QDBj1rqI60GieuNsEY2jRJwMOHn88++4BepCBRhLaA3MOhDwCJjTb5FIeuWrSqOflgg3BrVXPsQEM28jlmgSZ2qtTTpkPOkMUX6V3smY++9pPd7q0kdC7BUcTYIqlimYeDsWSKA3pEpQuqKrWxq+/R6BJZ8rFFKsRCnFBvXDDY2G8yjLVguOnikKy4+DCTKZkCTjy15HDClK3QXeQ5eokz4jkCknYYrfkceg5sFj2OHczEbleVMqw0rsMDSJvQThlxSLTK+IzWiY3ZpKioEUvzfXjo11ijA7FmqvqjRh6u+9X5O5/ePy08SQKosYBgGWvB8ucufHm3fO304+3liE2Od+T/uGDvl0hCwoRsgBGzVpUPptBmwEH7+6BKcfx4yED7t84087eVoZcECwxXMMO2BM5RPkPqwotwzFfhRpzDxXhZjWrkhdCnEFcqxaQzQSOTXMvpZcX0uXi/LRwhWK609rFCjosmiw5fiClrCFKXMMrZFNNehowtopGEMmSJV0cuUQLK1MNlOE4rlQDzJiTDY6I716iNJDWHUyZlji7XusTERPIG4RzaE5net0SvOKTJQ5rE7Ff59npory1925HuYdAfB62gAGs3xCNC7+7ufJ9f1l4mIXkLOsgscV0SiGtIJlcZ9ahLnU0Ofb/V19yTvYOE8/OMKVs4EE9mKZhWLM03D1wq8drK64/dlfXCwkBKGjw4VGRUm5St8Ft64vn9fN+2wm90Qcc0t/SZ2cUw9OXxyy09qebcHF9K9FVY2yXiW3PAPEdckTgWiRtTBUVKX76cFF+gVKk4J/7ODebyucHcsDE0MlYYMgqDw8aokRsxCkbeGB41BG5qYtL3w1+Q8FXl3wUAAA==</common_v29_0:NextResultReference>
+      <air:FlightDetailsList>
+        <air:FlightDetails Key="hd7S6d7Q2BKA/HV7BAAAAA==" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T08:25:00.000+06:00" ArrivalTime="2018-12-28T14:40:00.000+08:00" FlightTime="255" TravelTime="255" Equipment="738" OriginTerminal="2" DestinationTerminal="1"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKABIV7BAAAAA==" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T21:10:00.000+06:00" ArrivalTime="2018-12-29T03:20:00.000+08:00" FlightTime="250" TravelTime="250" Equipment="319" DestinationTerminal="2"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKADIV7BAAAAA==" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T22:45:00.000+06:00" ArrivalTime="2018-12-29T05:00:00.000+08:00" FlightTime="255" TravelTime="255" Equipment="333" DestinationTerminal="0"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAFIV7BAAAAA==" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T22:45:00.000+06:00" ArrivalTime="2018-12-29T05:00:00.000+08:00" FlightTime="255" TravelTime="255" Equipment="333" DestinationTerminal="0"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAHIV7BAAAAA==" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T12:30:00.000+06:00" ArrivalTime="2018-12-28T18:40:00.000+08:00" FlightTime="250" TravelTime="370" Equipment="738" DestinationTerminal="M"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAJIV7BAAAAA==" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T19:40:00.000+08:00" ArrivalTime="2018-12-28T20:40:00.000+08:00" FlightTime="60" TravelTime="370" Equipment="738" OriginTerminal="M" DestinationTerminal="3"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKALIV7BAAAAA==" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T00:50:00.000+06:00" ArrivalTime="2018-12-28T06:50:00.000+08:00" FlightTime="240" TravelTime="375" Equipment="738" DestinationTerminal="M"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKANIV7BAAAAA==" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T08:05:00.000+08:00" ArrivalTime="2018-12-28T09:05:00.000+08:00" FlightTime="60" TravelTime="375" Equipment="738" OriginTerminal="M" DestinationTerminal="2"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAPIV7BAAAAA==" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T00:50:00.000+06:00" ArrivalTime="2018-12-28T06:50:00.000+08:00" FlightTime="240" TravelTime="375" Equipment="738" DestinationTerminal="M"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKARIV7BAAAAA==" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T08:05:00.000+08:00" ArrivalTime="2018-12-28T09:05:00.000+08:00" FlightTime="60" TravelTime="375" Equipment="738" OriginTerminal="M" DestinationTerminal="2"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKATIV7BAAAAA==" Origin="DAC" Destination="BKK" DepartureTime="2018-12-28T13:40:00.000+06:00" ArrivalTime="2018-12-28T17:10:00.000+07:00" FlightTime="150" TravelTime="380" Equipment="330"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAVIV7BAAAAA==" Origin="BKK" Destination="SIN" DepartureTime="2018-12-28T18:30:00.000+07:00" ArrivalTime="2018-12-28T22:00:00.000+08:00" FlightTime="150" TravelTime="380" Equipment="333" DestinationTerminal="0"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAXIV7BAAAAA==" Origin="DAC" Destination="BKK" DepartureTime="2018-12-28T13:40:00.000+06:00" ArrivalTime="2018-12-28T17:10:00.000+07:00" FlightTime="150" TravelTime="380" Equipment="330"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAZIV7BAAAAA==" Origin="BKK" Destination="SIN" DepartureTime="2018-12-28T18:30:00.000+07:00" ArrivalTime="2018-12-28T22:00:00.000+08:00" FlightTime="150" TravelTime="380" Equipment="333" DestinationTerminal="0"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAbIV7BAAAAA==" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T00:50:00.000+06:00" ArrivalTime="2018-12-28T06:50:00.000+08:00" FlightTime="240" TravelTime="385" Equipment="738" DestinationTerminal="M"/>
+        <air:FlightDetails Key="hd7S6d7Q2BKAdIV7BAAAAA==" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T08:15:00.000+08:00" ArrivalTime="2018-12-28T09:15:00.000+08:00" FlightTime="60" TravelTime="385" Equipment="738" OriginTerminal="M" DestinationTerminal="3"/>
+      </air:FlightDetailsList>
+      <air:AirSegmentList>
+        <air:AirSegment Key="hd7S6d7Q2BKAAIV7BAAAAA==" Group="0" Carrier="BG" FlightNumber="84" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T08:25:00.000+06:00" ArrivalTime="2018-12-28T14:40:00.000+08:00" FlightTime="255" TravelTime="255" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="JA|CA|DA|RA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|AA|UA|NA|LA|HA|MA|BA|EA|KA|VA|PA|SA|WA|QA|OA|TA|GA|IA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKA/HV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKACIV7BAAAAA==" Group="0" Carrier="TR" FlightNumber="515" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T21:10:00.000+06:00" ArrivalTime="2018-12-29T03:20:00.000+08:00" FlightTime="250" TravelTime="250" ETicketability="Yes" Equipment="319" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="RA|PA|FA|AA|SA|YA|BA|MA|HA|WA|NA|XA|OA|TA|KA|LA|QA|EA|VA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKABIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAEIV7BAAAAA==" Group="0" Carrier="VA" FlightNumber="5660" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T22:45:00.000+06:00" ArrivalTime="2018-12-29T05:00:00.000+08:00" FlightTime="255" TravelTime="255" ETicketability="Yes" Equipment="333" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:CodeshareInfo OperatingCarrier="SQ" OperatingFlightNumber="447">SINGAPORE AIRLINES</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="J4|C4|D0|I0"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="Y4|B4|H4|K0|L0|E0|N4|V0|Q4|T4"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKADIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAGIV7BAAAAA==" Group="0" Carrier="SQ" FlightNumber="447" Origin="DAC" Destination="SIN" DepartureTime="2018-12-28T22:45:00.000+06:00" ArrivalTime="2018-12-29T05:00:00.000+08:00" FlightTime="255" TravelTime="255" ETicketability="Yes" Equipment="333" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="Z9|C9|J9|U2|D4"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="Y9|B9|E9|M9|H9|W9|Q9|N9|V9|GC|K9|L9"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAFIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAIIV7BAAAAA==" Group="0" Carrier="MH" FlightNumber="103" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T12:30:00.000+06:00" ArrivalTime="2018-12-28T18:40:00.000+08:00" FlightTime="250" TravelTime="370" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="J9|C9|D9|Z9|I3|U1"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="Y9|B9|H9|K9|M9|L9|V9|S9|N9|QC|OC|EL|XL|GL"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAHIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAKIV7BAAAAA==" Group="0" Carrier="OD" FlightNumber="805" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T19:40:00.000+08:00" ArrivalTime="2018-12-28T20:40:00.000+08:00" FlightTime="60" TravelTime="370" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="CA|JA|DA|IA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|AA|WA|SA|BA|HA|KA|LA|MA|NA|OA|QA|TA|VA|XA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAJIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAMIV7BAAAAA==" Group="0" Carrier="OD" FlightNumber="161" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T00:50:00.000+06:00" ArrivalTime="2018-12-28T06:50:00.000+08:00" FlightTime="240" TravelTime="375" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="CA|JA|DA|IA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|AA|WA|SA|BA|HA|KA|LA|MA|NA|OA|QA|TA|VA|XA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKALIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAOIV7BAAAAA==" Group="0" Carrier="SQ" FlightNumber="5601" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T08:05:00.000+08:00" ArrivalTime="2018-12-28T09:05:00.000+08:00" FlightTime="60" TravelTime="375" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:CodeshareInfo OperatingCarrier="MH" OperatingFlightNumber="601">MALAYSIA AIRLINES BERHAD</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="ZC|CC|JC|DC|UC"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YC|BC|EC|MC|HC|WC|QC|NC"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKANIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAQIV7BAAAAA==" Group="0" Carrier="OD" FlightNumber="161" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T00:50:00.000+06:00" ArrivalTime="2018-12-28T06:50:00.000+08:00" FlightTime="240" TravelTime="375" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="CA|JA|DA|IA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|AA|WA|SA|BA|HA|KA|LA|MA|NA|OA|QA|TA|VA|XA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAPIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKASIV7BAAAAA==" Group="0" Carrier="MI" FlightNumber="5701" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T08:05:00.000+08:00" ArrivalTime="2018-12-28T09:05:00.000+08:00" FlightTime="60" TravelTime="375" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:CodeshareInfo OperatingCarrier="MH" OperatingFlightNumber="601">MALAYSIA AIRLINES BERHAD</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="JC|CC|ZC|DC|UC"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="EC|BC|YC|NC|QC|WC|MC|HC"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKARIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAUIV7BAAAAA==" Group="0" Carrier="PG" FlightNumber="4823" Origin="DAC" Destination="BKK" DepartureTime="2018-12-28T13:40:00.000+06:00" ArrivalTime="2018-12-28T17:10:00.000+07:00" FlightTime="150" TravelTime="380" ETicketability="Yes" Equipment="330" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:CodeshareInfo OperatingCarrier="TG" OperatingFlightNumber="322">THAI AIRWAYS INTL</air:CodeshareInfo>
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="CA|DA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|MA|KA|NA|TA|LA|HA|QA|VA|GA|BA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKATIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAWIV7BAAAAA==" Group="0" Carrier="SQ" FlightNumber="979" Origin="BKK" Destination="SIN" DepartureTime="2018-12-28T18:30:00.000+07:00" ArrivalTime="2018-12-28T22:00:00.000+08:00" FlightTime="150" TravelTime="380" ETicketability="Yes" Equipment="333" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="Z9|C9|J9|UL|DL"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="Y9|BL|EL|ML|HL|WL|QC|NC|VC|GC|KC|LL"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAVIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAYIV7BAAAAA==" Group="0" Carrier="TG" FlightNumber="322" Origin="DAC" Destination="BKK" DepartureTime="2018-12-28T13:40:00.000+06:00" ArrivalTime="2018-12-28T17:10:00.000+07:00" FlightTime="150" TravelTime="380" ETicketability="Yes" Equipment="330" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="C9|D9|J9|Z9|I3"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="Y9|B9|M9|H9|Q9|T9|K9|S9|X9|V9|W9|L1"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAXIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAaIV7BAAAAA==" Group="0" Carrier="SQ" FlightNumber="979" Origin="BKK" Destination="SIN" DepartureTime="2018-12-28T18:30:00.000+07:00" ArrivalTime="2018-12-28T22:00:00.000+08:00" FlightTime="150" TravelTime="380" ETicketability="Yes" Equipment="333" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="Polled avail used" OptionalServicesIndicator="false" AvailabilitySource="S" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="Z9|C9|J9|UL|DL"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="Y9|BL|EL|ML|HL|WL|QC|NC|VC|GC|KC|LL"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAZIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAcIV7BAAAAA==" Group="0" Carrier="OD" FlightNumber="161" Origin="DAC" Destination="KUL" DepartureTime="2018-12-28T00:50:00.000+06:00" ArrivalTime="2018-12-28T06:50:00.000+08:00" FlightTime="240" TravelTime="385" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="CA|JA|DA|IA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|AA|WA|SA|BA|HA|KA|LA|MA|NA|OA|QA|TA|VA|XA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAbIV7BAAAAA=="/>
+        </air:AirSegment>
+        <air:AirSegment Key="hd7S6d7Q2BKAeIV7BAAAAA==" Group="0" Carrier="OD" FlightNumber="801" Origin="KUL" Destination="SIN" DepartureTime="2018-12-28T08:15:00.000+08:00" ArrivalTime="2018-12-28T09:15:00.000+08:00" FlightTime="60" TravelTime="385" ETicketability="Yes" Equipment="738" ChangeOfPlane="false" ParticipantLevel="Secure Sell" LinkAvailability="true" PolledAvailabilityOption="No polled avail exists" OptionalServicesIndicator="false" AvailabilitySource="O" AvailabilityDisplayType="General">
+          <air:AirAvailInfo ProviderCode="1G">
+            <air:BookingCodeInfo CabinClass="Business" BookingCounts="CA|JA|DA|IA"/>
+            <air:BookingCodeInfo CabinClass="Economy" BookingCounts="YA|AA|WA|SA|BA|HA|KA|LA|MA|NA|OA|QA|TA|VA|XA"/>
+          </air:AirAvailInfo>
+          <air:FlightDetailsRef Key="hd7S6d7Q2BKAdIV7BAAAAA=="/>
+        </air:AirSegment>
+      </air:AirSegmentList>
+      <air:AirItinerarySolution Key="hd7S6d7Q2BKAfIV7BAAAAA==">
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAAIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKACIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAEIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAGIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAIIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAKIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAMIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAOIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAQIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKASIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAUIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAWIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAYIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAaIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAcIV7BAAAAA=="/>
+        <air:AirSegmentRef Key="hd7S6d7Q2BKAeIV7BAAAAA=="/>
+        <air:Connection SegmentIndex="4"/>
+        <air:Connection SegmentIndex="6"/>
+        <air:Connection SegmentIndex="8"/>
+        <air:Connection SegmentIndex="10"/>
+        <air:Connection SegmentIndex="12"/>
+        <air:Connection SegmentIndex="14"/>
+      </air:AirItinerarySolution>
+    </air:AvailabilitySearchRsp>
+  </SOAP:Body>
+</SOAP:Envelope>
